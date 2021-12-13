@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsStats.App", "AzureDevOpsStats.App\AzureDevOpsStats.App.csproj", "{1F558014-CC8B-4AF8-B167-A9D681C2DBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsStats.Api", "AzureDevOpsStats.Api\AzureDevOpsStats.Api.csproj", "{275C59DD-57CE-4741-BD30-9C01064CD060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F558014-CC8B-4AF8-B167-A9D681C2DBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F558014-CC8B-4AF8-B167-A9D681C2DBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F558014-CC8B-4AF8-B167-A9D681C2DBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F558014-CC8B-4AF8-B167-A9D681C2DBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275C59DD-57CE-4741-BD30-9C01064CD060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275C59DD-57CE-4741-BD30-9C01064CD060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275C59DD-57CE-4741-BD30-9C01064CD060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275C59DD-57CE-4741-BD30-9C01064CD060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
